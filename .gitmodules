@@ -1,3 +1,6 @@
 [submodule "bootstrap"]
 	path = bootstrap
 	url = ../bootstrap.git
+[submodule "less.js"]
+	path = less.js
+	url = ../less.js.git
